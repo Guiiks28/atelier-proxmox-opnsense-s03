@@ -33,6 +33,14 @@ Atelier pratique de la S03 du cursus Administrateur d'Infrastructures Sécurisé
 - Ouverture des ports et redirection de flux (*DNAT*) sur Proxmox vers l'OPNsense.
 - Configuration du client WireGuard sur la machine hôte en mode *split-tunneling* (`AllowedIPs = 10.0.0.0/16`).
 
+- ## 📸 Captures d'écran de l'atelier
+
+### 1. Configuration des interfaces réseau et bridges sur Proxmox
+![Interface Réseau Proxmox](./images/proxmox-reseau.png)
+
+### 2. Tableau de bord et supervision sur OPNsense
+![Dashboard OPNsense](./images/opnsense-dashboard.png)
+
 ---
 
 ## 👨‍💻 Auteur
